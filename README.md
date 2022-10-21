@@ -1,4 +1,6 @@
 # kiosk_tg_bot
+Simple tg bot for checking timepad's tickets.
+
 config creds.py with secrets :Y
 
 ``cd kiosk_tg_bot``
